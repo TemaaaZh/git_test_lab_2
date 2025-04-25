@@ -27,4 +27,8 @@ public class F extends I {
     public int af() {
         return -1;
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }

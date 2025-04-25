@@ -27,4 +27,8 @@ public class K {
     public double ad() {
         return 9.11;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

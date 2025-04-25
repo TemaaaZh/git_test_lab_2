@@ -27,4 +27,8 @@ public class I {
     public byte oo() {
         return 2;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
