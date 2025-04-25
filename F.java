@@ -15,4 +15,8 @@ public class F extends I {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public long ac() {
+        return 333;
+    }
 }
