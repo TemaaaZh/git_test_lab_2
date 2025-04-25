@@ -19,4 +19,8 @@ public class K {
     public String kk() {
         return "No";
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }

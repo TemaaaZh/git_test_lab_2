@@ -19,4 +19,8 @@ public class F extends I {
     public long ac() {
         return 333;
     }
+
+    public void aa() {
+        return;
+    }
 }
