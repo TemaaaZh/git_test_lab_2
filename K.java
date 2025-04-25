@@ -11,24 +11,4 @@ public class K {
     public long dd() {
         return 99999;
     }
-
-    public int ae() {
-        return java.lang.Math.abs(-6);
-    }
-
-    public String kk() {
-        return "No";
-    }
-
-    public Object gg() {
-        return return getClass().getClassLoader();
-    }
-
-    public double ad() {
-        return 9.11;
-    }
-
-    public java.util.Random mm() {
-        return new java.util.Random();
-    }
 }
