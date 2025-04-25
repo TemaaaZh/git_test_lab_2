@@ -15,4 +15,8 @@ public class I {
     public float ff() {
         return 0;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
