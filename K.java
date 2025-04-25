@@ -23,4 +23,8 @@ public class K {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public double ad() {
+        return 9.11;
+    }
 }

@@ -23,4 +23,8 @@ public class F extends I {
     public void aa() {
         return;
     }
+
+    public int af() {
+        return -1;
+    }
 }
