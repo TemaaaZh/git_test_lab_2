@@ -23,12 +23,4 @@ public class F extends I {
     public void aa() {
         return;
     }
-
-    public int af() {
-        return -1;
-    }
-
-    public void bb() {
-        System.out.println(42);
-    }
 }

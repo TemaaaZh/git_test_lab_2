@@ -23,12 +23,4 @@ public class K {
     public Object gg() {
         return return getClass().getClassLoader();
     }
-
-    public double ad() {
-        return 9.11;
-    }
-
-    public java.util.Random mm() {
-        return new java.util.Random();
-    }
 }
